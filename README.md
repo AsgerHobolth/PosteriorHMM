@@ -1,2 +1,2 @@
 # PosteriorHMM
-Finite Markov chain imbedding and hybrid decoding for HMMs
+Finite Markov chain imbedding (FMCI) and hybrid decoding for HMMs 
